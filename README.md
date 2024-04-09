@@ -13,16 +13,16 @@ FacebookChecker checks if an {id, username, phonenumber, email} is associated wi
 ---
 
 # Screenshots
-![Windows](https://raw.githubusercontent.com/yasserjanah/FacebookChecker/main/screenshots/windows_example.png)
+![Windows](https://raw.githubusercontent.com/github.com/3steban96/go/main/screenshots/windows_example.png)
 
-![Linux](https://raw.githubusercontent.com/yasserjanah/FacebookChecker/main/screenshots/linux_example.gif)
+![Linux](https://raw.githubusercontent.com/github.com/3steban96/go/main/screenshots/linux_example.gif)
 
 
 
 ---
 # Installation
 ```
-go install github.com/yasserjanah/FacebookChecker@latest
+go install github.com/github.com/3steban96/go@latest
 ```
 ---
 
