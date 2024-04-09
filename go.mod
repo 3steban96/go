@@ -1,4 +1,4 @@
-module github.com/yasserjanah/FacebookChecker
+module github.com/3steban96/go
 
 go 1.21
 
